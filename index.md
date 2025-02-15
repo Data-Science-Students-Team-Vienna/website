@@ -5,7 +5,7 @@ title: Home
 
 # Welcome to the website of the Data Science Students Team Vienna
 
-![team_icon](data_sciene_team_icon.png){: style="width:150px; 
+![team_icon](./images/data_sciene_team_icon.png){: style="width:150px; 
 height:auto; 
 border-radius:50%;" }
 
